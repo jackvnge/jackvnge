@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+## ✉️ Find me on:
 <p align="center">
 <a href="jackvnge@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
